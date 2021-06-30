@@ -2,4 +2,4 @@
 repo practice
 Hello. 
 
-I have no idea what I'm doing. 
+This is my first commit; a change to the main branch.
